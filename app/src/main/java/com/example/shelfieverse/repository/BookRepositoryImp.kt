@@ -20,7 +20,7 @@ import java.io.InputStream
 import java.util.concurrent.Executors
 
 class BookRepositoryImp : BookRepository {
-
+    private val database: FirebaseDatabase = FirebaseDatabase.getInstance()
     private var auth: FirebaseAuth = FirebaseAuth.getInstance()
     private val ref: DatabaseReference = database.reference.child("Books")
 
