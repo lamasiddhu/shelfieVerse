@@ -4,7 +4,7 @@ import android.os.Parcel
 import android.os.Parcelable
 
 data class BookModel(
-
+    var BookId: String = "",
     var BookName: String = "",
     var description: String = "",
     var movielink: String = "",
