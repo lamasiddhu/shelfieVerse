@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "883290162078",
+    "firebase_url": "https://shelfieverse-default-rtdb.firebaseio.com",
+    "project_id": "shelfieverse",
+    "storage_bucket": "shelfieverse.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883290162078:android:b158d3be3fa8bc48d48c8f",
+        "android_client_info": {
+          "package_name": "com.example.shelfieverse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnYVcstNFaNtJe0XW-q5sEDOkEve_ddB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
