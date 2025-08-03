@@ -4,7 +4,7 @@ import android.os.Parcel
 import android.os.Parcelable
 
 data class UserModel(
-
+    var userId : String = "",
     var email : String = "",
     var fName : String = "",
     var address : String = "",
